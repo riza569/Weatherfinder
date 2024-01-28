@@ -1,0 +1,8 @@
+[{ "name":"muhammed riza",
+    "age":21,
+    "isemployed":true},
+{
+    "name":"azir azir",
+    "age":25,
+    "isemployed":false
+}]
